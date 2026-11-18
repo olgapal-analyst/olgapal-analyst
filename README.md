@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hallo, ich bin Olga
 
-<!--
-**olgapal-analyst/olgapal-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich komme aus der quantitativen Markt- und Sozialforschung: über 15 Jahre Studien von der Fragestellung bis zur Präsentation beim Kunden – Fragebogen, Datenbereinigung, statistische Auswertung, Reporting. Saubere, belastbare Daten waren dabei immer mein Schwerpunkt.
 
-Here are some ideas to get you started:
+Heute arbeite ich mit Python, SQL und Power BI, auch an der Schnittstelle zu KI (RAG, Prompt Engineering).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Retention, Churn, aktive Nutzer – in jeder Abteilung kann dahinter etwas anderes stecken. Bevor ich rechne, kläre ich, welche Entscheidung auf der Kennzahl aufbauen soll und wie sie genau definiert ist. Das habe ich in der Forschung gelernt: Ein Begriff ist erst messbar, wenn klar ist, was er bedeutet. So entstehen Zahlen, über die man nicht streitet, sondern mit denen man arbeitet.
+
+**Tools:** Python (Pandas, NumPy) · SQL · Power BI · Tableau · Excel · SPSS
+
+### Projekte
+
+- [movie-search-cli](https://github.com/olgapal-analyst/movie-search-cli) – Python-CLI zur Filmsuche nach Stichwort, Jahr und Genre auf Basis der Sakila-Datenbank
+- *Weitere Projekte folgen: CRM-Analyse einer Online-IT-Schule, Mastermind mit Knuth-Strategie und Spielanalytik*
+
+📍 Köln/Bonn · [LinkedIn](https://www.linkedin.com/in/olga-eulegoritmus)
